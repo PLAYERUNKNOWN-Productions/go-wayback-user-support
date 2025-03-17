@@ -6,10 +6,10 @@
 Your go-to space for troubleshooting and guidance during playtests of _Prologue: Go Wayback!_
 
 ### Links for Support
-- [**Playtest Technical Support FAQ**](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support/edit/main/README.md#technical-support-faq): Find answers to common technical issues and solutions.
-- [**Playtest Sign-Up Support**](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support/edit/main/README.md#playtest-sign-up-support): Find answers to common issues users run into while signing up for playtests.
+- [**Playtest Technical Support FAQ**](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support?tab=readme-ov-file#technical-support-faq): Find answers to common technical issues and solutions.
+- [**Playtest Sign-Up Support**](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support?tab=readme-ov-file#playtest-sign-up-support): Find answers to common issues users run into while signing up for playtests.
 - [**Changelog**](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support/blob/main/Documents/CHANGELOG.md#changelog): Changelog and archive for _Go Wayback!_ releases, including patch notes.
-- [**How to Report a Bug**](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support/edit/main/README.md#how-to-report-a-bug): Step-by-step instructions for submitting clear and helpful bug reports.
+- [**How to Report a Bug**](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support?tab=readme-ov-file#how-to-report-a-bug): Step-by-step instructions for submitting clear and helpful bug reports.
 
 ### Join the Community
 - [**Discord**](https://go.pp.studio/Discord): Join the PLAYERUNKNOWN Productions Discord to connect with other users, share feedback, and talk with the dev team.
@@ -26,7 +26,7 @@ Thank you for supporting _Go Wayback!_
 
 We are currently conducting playtests with _Prologue: Go Wayback!_ While we do our best to offer playtesters a smooth experience, it is important to remember that discovering and logging technical errors is one of our objectives for these sessions. 
 
-That said, in some cases there are errors that can be resolved by running checks. Below, you'll find solutions to common technical problems with _Prologue: Go Wayback!_ If your issue isn’t resolved here, we encourage you to report it through our [Community Bug Submission page](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support/edit/main/README.md#how-to-report-a-bug).
+That said, in some cases there are errors that can be resolved by running checks. Below, you'll find solutions to common technical problems with _Prologue: Go Wayback!_ If your issue isn’t resolved here, we encourage you to report it through our [Community Bug Submission page](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support?tab=readme-ov-file#how-to-report-a-bug).
 
 ### Minimum System Requirements
 
@@ -64,7 +64,7 @@ After updating, restart your system and try running _Go Wayback!_ again.
 ### Additional Resources and Community Support
 
 - [**Changelog and Known Issues**](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support/blob/main/Documents/CHANGELOG.md#changelog): Check our Changelog and Known Issues list to see if your issue is already being tracked and get updates on its status.
-- [**Community Bug Submission**](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support/edit/main/README.md#how-to-report-a-bug): If you’re encountering a bug that’s not listed, report it via our Community Bug Submission page.
+- [**Community Bug Submission**](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support?tab=readme-ov-file#how-to-report-a-bug): If you’re encountering a bug that’s not listed, report it via our Community Bug Submission page.
 - [**Peer-to-Peer Troubleshooting on Discord**](https://go.pp.studio/Discord): Join our Discord server to connect with other players for peer-to-peer troubleshooting. You may also get the chance to interact with the development team, though please note that as a small studio, we do not offer personalized support.
 - [**Discover more about Go Wayback!**](https://playerunknownproductions.net/news/category/all/): Read up about our plans for _Go Wayback!_ and where the project is headed.
 
@@ -111,7 +111,7 @@ Occasionally, it can take our bot up to 20 minutes to grant access. If you still
 ### I've reviewed all of this but still need help—who can I contact?
 Please reach out to @PPYaachts via DM on Discord. Playtest sign-up periods can be busy, so there might be a brief wait before receiving assistance.
 
-For those looking technical support on running the game, [check out the Playtest Technical Support FAQ](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support/edit/main/README.md#technical-support-faq).
+For those looking technical support on running the game, [check out the Playtest Technical Support FAQ](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support?tab=readme-ov-file#technical-support-faq).
 
 ![Red PP Sign](https://github.com/user-attachments/assets/b47ffe6a-97a7-4a17-b48a-70d363db45f1)
 
