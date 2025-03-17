@@ -72,7 +72,7 @@ Thank you for supporting Go Wayback! Your feedback is invaluable, and we’re ex
 
 ![Red PP Sign](https://github.com/user-attachments/assets/b47ffe6a-97a7-4a17-b48a-70d363db45f1)
 
-[Back to the top](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support/edit/main/README.md#prologue-go-wayback)
+[Back to the top](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support?tab=readme-ov-file#prologue-go-wayback)
 
 ---
 
@@ -115,7 +115,7 @@ For those looking technical support on running the game, [check out the Playtest
 
 ![Red PP Sign](https://github.com/user-attachments/assets/b47ffe6a-97a7-4a17-b48a-70d363db45f1)
 
-[Back to the top](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support/edit/main/README.md#prologue-go-wayback)
+[Back to the top](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support?tab=readme-ov-file#prologue-go-wayback)
 
 ---
 
@@ -161,6 +161,6 @@ Thank you for helping us improve _Go Wayback!_
 
 ![Red PP Sign](https://github.com/user-attachments/assets/b47ffe6a-97a7-4a17-b48a-70d363db45f1)
 
-[Back to the top](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support/edit/main/README.md#prologue-go-wayback)
+[Back to the top](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support?tab=readme-ov-file#prologue-go-wayback)
 
 ---
