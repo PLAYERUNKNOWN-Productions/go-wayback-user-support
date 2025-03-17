@@ -55,6 +55,10 @@ We're using the latest technological advancements, so updated drivers are a must
 2. Select Check for Updates.
 3. Download and install the latest driver.
 
+**For Intel**
+1. Open [Intel download center](https://www.intel.com/content/www/us/en/download-center/home.html)
+2. Search for Drivers and Download.
+
 After updating, restart your system and try running _Go Wayback!_ again.
 
 ### Additional Resources and Community Support
@@ -78,6 +82,7 @@ Sign-ups for our playtests open on specific dates and operate on a first-come, f
 1. Verify participant eligibility.
 2. Distribute Steam keys for game access.
 3. Provide important resources such as our playtest survey and channels for sharing content during playtests.
+Note: During busy periods it can take a few minutes for our playtest Discord bot to give access to these channels.
 
 ### Who is eligible to participate?
 We have two requirements for playtest participants:
@@ -91,7 +96,7 @@ To ensure a smooth sign-up experience, please:
 - Set your Steam account privacy to public at the time of registration. Please note that it may take a few minutes for Steam to process this change.
 
 ### I signed up, but can't find my Steam key.
-Visit the "View my key" channel on Discord and click the provided button; your key should appear.
+Visit the "view-my-key" channel on Discord and click the provided button; your key should appear.
 
 If you cannot access this channel, please see the section "I signed up, but I don't have access to playtester resources on Discord." If you continue having trouble, reach out to @PPYaachts via DM on Discord.
 
