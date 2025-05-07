@@ -1,5 +1,45 @@
 # Changelog
 
+## Changelist 0.15504
+
+## Gameplay Changes
+- Terrain generation is now multi-threaded for faster loading.
+- Forest items now pull toward the player when picked up.
+- Paper can now burn when dropped on a hot stove.
+- World items can be consumed directly by holding E.
+- Logs are burnable again, with adjusted size and burn duration.
+- Upper clothing now affects how wetness transfers between layers.
+- Hunger and thirst bars now preview consumed calories.
+## Bug Fixes
+- Fixed multiple crashes related to eating or equipping items.
+- Fixed a bug where equipped items would drop instead of being thrown.
+- Fixed a bug where water bottles could be used infinitely.
+- Fixed an issue where forageables would vanish if inventory was full.
+- Fixed issues with wearable items from the hotbar.
+- Logs now correctly rotate and render in first person.
+- Placing items now respects the proper delay and position.
+- Fixed backpacks showing at feet or becoming unselectable.
+- Compass now unzooms correctly when unequipped.
+- Lightbulb animations now sync with player movement.
+- Fixed inventory and hotbar issues after loading a save.
+## Visual & UI Updates
+- Map icons and question marks cleaned up for clarity.
+- Map now has a scale and updated icon visuals.
+- Vitals bar visuals updated; now shows environmental temperature.
+- Improved lighting in indoor and overcast conditions.
+- Added river crossing visualization and foam effects.
+## Audio Improvements
+- Restored sliding sounds and added manual slide controls.
+- Improved radio behavior when stored or game paused.
+- Added contextual hammer sounds and updated footstep audio.
+## Performance & Technical
+- Terrain generation optimized with multi-threading.
+- Reduced physics bugs when interacting quickly with items.
+- Fixed memory crashes and data corruption related to item stacking and use.
+- Fixed sync and animation issues when interacting with objects.
+- Improved handling of localized fonts and translations (JP/CH).
+## Various Content Additions
+
 ## Version: Feb 25 Playtest Build
 
 As public playtests are ongoing, we will start sharing our changelog with community. **But, because we are not released we don't want to spoil the game.** We will therefore not include notes on new items, mechanics, or systems that we haven't talked about or players have not yet seen. This time the focus is on updates and changes to features since the last playtest in December.
