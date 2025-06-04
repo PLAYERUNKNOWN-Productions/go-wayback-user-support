@@ -1,5 +1,47 @@
 # Changelog
 
+## Version: Jun 25 Playtest Demo Build
+
+### World & Environment
+- Updated map visuals, riverbed, and background landscape heightmap.
+- Improved terrain blending and snow level calculation.
+- Reworked cabin/shelter spawning logic (improved terrain adherence, avoided overlap with starter cabin).
+- Distance roof meshes swap dynamically within 50m.
+- Enhanced environmental realism: snow cover, fog, "wet haze", and overcast effects.
+
+### Gameplay & Mechanics
+- Food becomes a "meal" upon entering pot.
+- Cooked food size scales with ingredients.
+- Cooking duration depends on ingredient size/count.
+- Poisonous food system introduced.
+- Wetness affects body temp without clothing. 
+- Food containers restricted to food items only.
+- Lucy can now drink directly from rivers.
+- Added getup animation after sliding, vaulting tweaks, better sprint posture.
+- Items now show family tags and proper quickslot counts.
+- Inventory hotkey changes and tooltip improvements.
+- Inspect item toggle added (Q).
+
+### Fixes & Improvements
+- Fixed item pickup, placement material, cooking visuals, and interaction issues.
+- Resolved item physics bugs, tooltip spam, and spawn misalignments.
+- Addressed flare bugs, map scale readability, walkman animations.
+- Fixed heat interaction with objects (stove plates).
+- Improved placement & interaction with map, rivers, shelters, and furniture.
+- Improved teleportation, falling item logic, and collision settings.
+
+### Assets & Visuals
+- Replaced decals with static meshes for maps.
+- Added reflection captures, updated shadows and light logic.
+- Improved icons (clothing, food, mushrooms, UI polish).
+- Visuals for cooked food now persistent and serialized.
+
+### Audio & VFX
+- Fixed audio not resuming after game restart.
+- Adjusted flashlight SFX, footstep audio integration, fridge proximity logic.
+- Added destruction sounds for shelters, map folding sound, and sliding anim feedback.
+- Updated fire particle systems and stove heat behavior.
+
 ## Changelist 0.15504
 
 ## Gameplay Changes
