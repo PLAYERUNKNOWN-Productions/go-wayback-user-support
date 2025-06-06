@@ -17,7 +17,7 @@ Your go-to space for troubleshooting and guidance during playtests of _Prologue:
 - [**Steam**](https://steam.pp.studio/Prologue): Find _Go Wayback!_ on Steam.
 
 ### Other Resources
-- [**Prologue: Go Wayback! Privacy Notice**](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support/blob/main/Documents/PrivacyNotice.docx): Information on Go Wayback related data collection and other related topics.
+- [**Prologue: Go Wayback! Privacy Notice**](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support/blob/main/Documents/PrivacyNotice.md#privacy-notice): Information on Go Wayback related data collection and other related topics.
 
 Thank you for supporting _Go Wayback!_
 
