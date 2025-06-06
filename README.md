@@ -16,6 +16,9 @@ Your go-to space for troubleshooting and guidance during playtests of _Prologue:
 - [**Website**](https://go.pp.studio/Home): Visit our official site for more about _Go Wayback!_, _Preface: Undiscovered World_, and the _Melba_ engine.
 - [**Steam**](https://steam.pp.studio/Prologue): Find _Go Wayback!_ on Steam.
 
+### Other Resources
+- [**Prologue: Go Wayback! Privacy Notice**](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support/blob/main/Documents/PrivacyNotice.docx): Information on Go Wayback related data collection and other related topics.
+
 Thank you for supporting _Go Wayback!_
 
 ![Red PP Sign](https://github.com/user-attachments/assets/b47ffe6a-97a7-4a17-b48a-70d363db45f1)
