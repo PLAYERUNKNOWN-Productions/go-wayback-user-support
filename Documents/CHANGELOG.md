@@ -1,5 +1,14 @@
 # Changelog
 
+*June 30th 2025*
+
+## Version: Demo Update 1
+
+### Updates:
+- 10 new map seeds replacing the previous 4
+- Additional help screen added upon start-up. Press H in-game to display the help screen in-game.
+- Other small bug fixes.
+
 ## Version: Jun 25 Playtest Demo Build
 
 ### World & Environment
