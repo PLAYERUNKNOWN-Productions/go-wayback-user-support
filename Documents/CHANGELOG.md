@@ -1,5 +1,57 @@
 # Changelog
 
+*July 21 2025*
+
+## Version: Demo Update 2
+
+### FOV Slider
+- A Field-of-View slider has been added to the game settings.
+
+### Interactions 
+- Refilling water containers now uses right-click (RMB) instead of E.
+- You can now drink from snowy or, if you're brave, muddy ground.
+- New input prompts added.
+- You can switch on on-screen prompts for item actions.
+- The crosshair now animates when you're unable to carry something underarm.
+- A circular progress bar appears when holding to interact.
+- M opens the map if it is in the hotbar.
+- Radio and cassette player volume can be changed in game.
+
+### Mechanics
+- Water containers are refillable from snow, but can also store poisonous water.
+- Cooking now reduces food size in your inventory — without lowering calories.
+- Wild garlic, wild strawberries, and wild carrots now provide better nutrition.
+
+### Inventory 
+- Tin cans are now treated separately by type — they no longer stack into the same hand.
+- The flashlight correctly shows whether it's on or off inside shelters.
+- Waterproof backpacks now protect stored items from rain and help them dry.
+- Backpack sizes are now displayed accurately when inspecting them.
+- Clothing insulation has a greater effect on your body temperature.
+- More clothes can get damaged.
+
+### Environment 
+- Added a miniature landscape diorama inside the Weather Tower showing your journey.
+- Improved liquid rendering when holding containers.
+- Breakable furniture added — cabin tables and chairs can now be destroyed. 
+- Map start location and Weather Tower location are now accurately marked.
+- Improved rock formations in European Beech areas.
+
+### Balancing updates
+- Balanced items and consumables available from the starting cabin.
+- Balanced wetness from swimming, its more dangerous now.
+- Rare waterproof and insulated clothing is even rarer now. 
+- Balanced getting dry to make it harder. It won't happen until certain conditions are met, e.g. the world temperature is above 2C.
+- All shelters now start at the world temperature, its easier to die at the start.
+- Fires are harder to maintain in storms, look for rocky outcrops if you are outside.
+
+### Audio
+- New audio mix.
+
+### Other Bug fixes
+- Various minor other bug fixes
+
+
 *June 30th 2025*
 
 ## Version: Demo Update 1
@@ -8,6 +60,9 @@
 - 10 new map seeds replacing the previous 4
 - Additional help screen added upon start-up. Press H in-game to display the help screen in-game.
 - Other small bug fixes.
+
+
+*June 25th 2025*
 
 ## Version: Jun 25 Playtest Demo Build
 
