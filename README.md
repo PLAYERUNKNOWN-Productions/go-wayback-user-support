@@ -6,7 +6,7 @@
 Your go-to space for troubleshooting and guidance during playtests of _Prologue: Go Wayback!_
 
 ### Links for Support
-- [**Playtest Technical Support FAQ**](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support?tab=readme-ov-file#technical-support-faq): Find answers to common technical issues and solutions.
+- [**Technical Support FAQ**](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support?tab=readme-ov-file#technical-support-faq): Find answers to common technical issues and solutions.
 - [**Playtest Sign-Up Support**](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support?tab=readme-ov-file#playtest-sign-up-support): Find answers to common issues users run into while signing up for playtests.
 - [**Changelog**](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support/blob/main/Documents/CHANGELOG.md#changelog): Changelog and archive for _Go Wayback!_ releases, including patch notes.
 - [**How to Report a Bug**](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support?tab=readme-ov-file#how-to-report-a-bug): Step-by-step instructions for submitting clear and helpful bug reports.
