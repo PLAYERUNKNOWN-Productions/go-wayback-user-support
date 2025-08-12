@@ -2,7 +2,7 @@
 
 *August 12 2025*
 
-## Version: Open Beta Build 12.08.2025
+## Version: Open Beta Build - v0.19031
 
 ### Interactions & Gameplay
 - Drink from rivers without stepping in
