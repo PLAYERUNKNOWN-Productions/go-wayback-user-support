@@ -1,5 +1,48 @@
 # Changelog
 
+*August 12 2025*
+
+## Version: Open Beta Build 12.08.2025
+
+### Interactions & Gameplay
+- Drink from rivers without stepping in
+- Item detection is more forgiving
+- Hold **E** to open backpacks and cooking pots
+- Map opens with **M** if quickslotted
+- More precise item placement with R
+- Destroyed furniture burns longer
+
+### World & Environment
+- Storms can now break boarded-up windows
+- New interest points near logging cabins
+- Pots near starter cabin are now pickupable
+- Lowered default indoor temperature
+- Added new cliffs
+
+### Items & Inventory
+- Spoiled food and torn clothing can appear
+- Torn clothing is less effective
+- Balanced high-tier clothing spawns
+- Reduced burnable items; removed prefab fireplaces
+- Milk jugs now make sound when refilled
+- Hammer, refillables, and ferro rod show correct crosshair icons
+
+### UI & Visuals
+- Poison icon added
+- Fingers blacken in harsh conditions
+- Boots no longer vanish while crouching
+- Fixed inspection bugs and item visuals
+- Purple floppy disk correctly labeled
+- Fixed player rotation at game start
+
+### Survival
+- New **fever system**: extreme temperatures can trigger fever, increasing thirst and temperature sensitivity
+
+### Misc
+- Updated translations
+- General UI text improvements
+
+
 *July 21 2025*
 
 ## Version: Demo Update 2
