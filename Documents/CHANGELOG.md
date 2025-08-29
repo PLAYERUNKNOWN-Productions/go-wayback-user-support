@@ -1,5 +1,21 @@
 # Changelog
 
+*August 18 2025*
+
+## Version: Open Beta Build - v.0.19205
+
+### World & Environment
+- Improved world generation to reduce players getting stuck in rocks and cliffs
+
+### UI & Visuals
+Updated map icons and North indicator
+Adjusted temperature display
+
+### Items & Balance
+Added a 1L bottle to the starter cabin
+Updated balancing for more variety in gameplay
+
+
 *August 12 2025*
 
 ## Version: Open Beta Build - v0.19031
