@@ -1,5 +1,28 @@
 # Changelog
 
+*September 2 2025*
+
+## Version: Open Build v.0.19627
+
+### Gameplay & Survival
+- Hunger and thirst no longer cause instant death
+- Poison now has permanent side effects
+- Fire effects on the player have been reduced
+- Escape screen has a timer
+
+### Items & Inventory
+- Added lighter, matchbook, and oil lamps
+- Inspecting water containers now shows capacity
+- Inventory tooltips are now context-specific (Eat, Drink, Open, etc.)
+
+### World & Environment
+- Added audio for rivers
+- Fixed rocks so players no longer fall through them
+- Fixed hiking stops having higher temperature than the world
+- Fixed cabin roofs breaking when first discovered
+- More randomness in item spawns, cabin durability, and cabin quality outside exploration zones
+
+
 *August 18 2025*
 
 ## Version: Open Beta Build - v.0.19205
