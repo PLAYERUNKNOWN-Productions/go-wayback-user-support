@@ -2,7 +2,7 @@
 
 *September 2 2025*
 
-## Version: Open Build v.0.19627
+## Version: Open Beta Build v.0.19627
 
 ### Gameplay & Survival
 - Hunger and thirst no longer cause instant death
