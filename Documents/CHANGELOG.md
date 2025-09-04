@@ -2,7 +2,7 @@
 
 *September 4 2025*
 
-## Version: Hotfix Open Beta Build
+## Version: Hotfix Open Beta Build v.0.19783
 
 - Fixed collision issues on the oil lamp and lighter.
 - Resolved flashlight coloring issue.
