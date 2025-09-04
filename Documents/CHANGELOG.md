@@ -1,5 +1,14 @@
 # Changelog
 
+*September 4 2025*
+
+## Version: Hotfix Open Beta Build
+
+- Fixed collision issues on the oil lamp and lighter.
+- Resolved flashlight coloring issue.
+- Fixed a crash and a softlock.
+
+
 *September 2 2025*
 
 ## Version: Open Beta Build v.0.19627
