@@ -1,8 +1,44 @@
 # Changelog
 
+*September 23 2025*
+
+## Version: Open Beta Build Update - v.0.20224
+
+### Audio & Atmosphere
+- Restored foliage-rustle and rain/hail roof impacts
+- Heartbeat now signals dehydration/hunger; intensity scales with risk
+- Tinnitus + gradual muffling during critical states
+
+### Visual & UI
+- Wet items show blue background in inventory
+- Compass shows on map when in any quick-slot
+- Skylight intensity now separates day/night; clearer dusk lighting
+- Anti-aliasing toggle added to Settings 
+
+### Gameplay & Balance
+- Diesel-generator gas lid no longer stackable under-arm
+- Build/destruct range cut to 1.5m (was 3m)
+- Door boarding improved: doors are locked when you board a door to a wall with a plank
+- Cooking items update calories in real time again
+- Medium landing roll slowed 50%; smoother get-up blends
+
+### Items & Inventory
+- Bed, oil-lamp, flashlight, walkman, radio collision fixes
+- Paper no longer crumples on inspect; lamp glass lights only when on
+- Wetness recalculates when moved in hotbar
+
+### Performance & Systems
+- Reflections switched to screen-space; minor light tuning
+- Fixes for invisible items spawning in shelters
+
+### World & Environment
+- LOD fixes on coat-hanger; outhouse-door collision updated
+- Removed floating lamp in cabin; added shelf collisions to jetty & shack
+
+
 *September 4 2025*
 
-## Version: Hotfix Open Beta Build v.0.19783
+## Version: Open Beta Build Hotfix - v.0.19783
 
 - Fixed collision issues on the oil lamp and lighter.
 - Resolved flashlight coloring issue.
@@ -11,7 +47,7 @@
 
 *September 2 2025*
 
-## Version: Open Beta Build v.0.19627
+## Version: Open Beta Build Update - v.0.19627
 
 ### Gameplay & Survival
 - Hunger and thirst no longer cause instant death
@@ -34,7 +70,7 @@
 
 *August 18 2025*
 
-## Version: Open Beta Build - v.0.19205
+## Version: Open Beta Build Update - v.0.19205
 
 ### World & Environment
 - Improved world generation to reduce players getting stuck in rocks and cliffs
