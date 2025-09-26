@@ -16,6 +16,8 @@
 - Anti-aliasing toggle added to Settings 
 
 ### Gameplay & Balance
+- Weather Tower is no longer specifically pinpointed on the map. Explore and find a good vantage point to locate it!
+- Maps can be more easily found in shelters across the world; each map you find features different nearby locations/information.
 - Diesel-generator gas lid no longer stackable under-arm
 - Build/destruct range cut to 1.5m (was 3m)
 - Door boarding improved: doors are locked when you board a door to a wall with a plank
