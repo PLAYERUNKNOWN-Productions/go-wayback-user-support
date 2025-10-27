@@ -13,8 +13,8 @@ Your go-to space for troubleshooting and guidance during playtests of _Prologue:
 
 ### Join the Community
 - [**Discord**](https://go.pp.studio/Discord): Join the PLAYERUNKNOWN Productions Discord to connect with other users, share feedback, and talk with the dev team.
-- [**Website**](https://go.pp.studio/Home): Visit our official site for more about _Go Wayback!_, _Preface: Undiscovered World_, and the _Melba_ engine.
-- [**Steam**](https://steam.pp.studio/Prologue): Find _Go Wayback!_ on Steam.
+- [**Website**](https://go.pp.studio): Visit our official site for more about _Go Wayback!_, _Preface: Undiscovered World_, and the _Melba_ engine.
+- [**Steam**](https://go.pp.studio/GoWaybackSteam): Find _Go Wayback!_ on Steam. 
 
 ### Other Resources
 - [**Prologue: Go Wayback! Privacy Notice**](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support/blob/main/Documents/PrivacyNotice.md#privacy-notice): Information on Go Wayback related data collection and other related topics.
