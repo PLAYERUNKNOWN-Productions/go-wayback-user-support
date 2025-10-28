@@ -1,5 +1,36 @@
 # Changelog
 
+*October 28 2025*
+
+## Version: Open Beta Build Update - v0.21492
+
+### Gameplay & Systems
+* New Game Modes menu added with two new Game Modes
+* Added **Unstuck button** to the pause menu
+* Players’ fingers now appear dirtier to match the environment
+* Music player no longer exhibits “haunted” behavior
+* Generator updated with new diegetic fuel gauge
+
+### Items & Inventory
+* Added new flashlights with different functionalities
+* Added a prying tool for destruction
+
+### World & Environment
+* New river banks and more river variations added
+* Foraging logic updated, mushrooms now spawn more more consistently
+* Mud patches are now visible on maps; mud color updated
+* Updated areas around cabins with new set dressing
+* Fixed floating, misplaced, and clipping objects in several cabins
+* Animated roof destruction added
+
+### UI & Other Fixes
+* Updated translations
+* Adjusted map visuals and behavior; weather tower now displays its area
+* Fog reduced under clear and overcast conditions
+* Fixed compass disappearing and rotation resetting issues
+* Adjusted ladder and shelter collisions to prevent blocking and clipping
+
+
 *September 23 2025*
 
 ## Version: Open Beta Build Update - v.0.20224
