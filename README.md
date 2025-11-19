@@ -1,4 +1,4 @@
-![Key Art - Prologue Go Wayback!](https://github.com/user-attachments/assets/6bb77b95-8c60-41da-804d-54b55d116c94)
+![Key Art - Prologue Go Wayback!](https://github.com/user-attachments/assets/2d9ff185-83de-4d57-9a94-a2da062cd0a6)
 
 # Prologue: Go Wayback!
 ## **User Support Hub**
