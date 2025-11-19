@@ -26,9 +26,9 @@ Thank you for supporting _Go Wayback!_
 
 ## Technical Support FAQ
 
-We are currently conducting playtests with _Prologue: Go Wayback!_ While we do our best to offer playtesters a smooth experience, it is important to remember that discovering and logging technical errors is one of our objectives for these sessions. 
+_Prologue: Go Wayback!_ enters Early Access for PC on November 20, 2025, and we have been polishing the build during Open Beta playtests since August. While the Early Access build should be stable, in some cases there are errors that can be resolved by running checks on your system. 
 
-That said, in some cases there are errors that can be resolved by running checks. Below, you'll find solutions to common technical problems with _Prologue: Go Wayback!_ If your issue isn’t resolved here, we encourage you to report it through our [Community Bug Submission page](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support?tab=readme-ov-file#how-to-report-a-bug).
+Below, you'll find solutions to common technical problems with _Prologue: Go Wayback!_ If your issue isn’t resolved here, we encourage you to report it through our [Community Bug Submission page](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support?tab=readme-ov-file#how-to-report-a-bug).
 
 ### Minimum System Requirements
 
@@ -36,13 +36,11 @@ Before troubleshooting, please ensure your system meets the minimum specificatio
 
 **Playtest Minimum Requirements**
 - OS: windows 10
-- Processor: Intel Core i5-10600K
-- Memory: 24 GB RAM
-- Graphics: Nvidia GeForce RTX 2080/3070
+- Processor: Intel Core i5 8600
+- Memory: 16 GB RAM
+- Graphics: NVIDIA GTX 1070
 - DirectX: Version 12
 - Storage: 10 GB available space
-
-Note: These requirements are different to our planned min spec at launch - which you can check out on [the _Go Wayback!_ Steam page](https://steam.pp.studio/Prologue).
 
 ### Update Your Graphics Drivers
 We're using the latest technological advancements, so updated drivers are a must. Outdated drivers can cause performance issues or crashes in _Go Wayback!_ Please ensure your graphics drivers are up to date.
