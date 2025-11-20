@@ -1,4 +1,47 @@
 # Changelog
+*November 20 2025*
+
+## Version: Early Access Launch Update - v.0.22622
+
+### New Features
+* Saving – You can now stop and continue your game at any time.
+* Achievements – A full achievement set is now available.
+* Custom Game Settings – Shape your own survival experience.
+* Controller Support – In-game controller support (menus coming later).
+
+### Gameplay & Systems
+* Added “New Day” notification in Objective: Survive mode
+* Added improved day/night transitions
+* Sprint: moved from maintained input to toggle.
+* Added Streamer Mode (audio-safe).
+* Enabled NVIDIA Reflex and DLSS Frame Generation.
+* Added edge-of-world warning text.
+* Added graphics Revert Settings auto-restore popup.
+* Note: Rangefinders from the Open Beta are undergoing fixes with finding range.
+
+### Fixes & Quality of Life
+* Compass blur and map compass bezel issues fixed.
+* Added map + player data to death and end screens.
+* Fixed items getting wet indoors after loading.
+* Corrected key hints for Tab/Inventory.
+* Fixed custom weather stopping unexpectedly.
+* Fixed small items falling through the floor.
+
+### Map & World
+* Improved snow billboard visuals and ground readability.
+* Weather distance, fog, and lighting updated for consistency.
+* Cardboard boxes in the Weather Tower now provide tinder.
+
+### UI & Visuals
+* Updated inventory UI, input prompts, tooltips, and popups.
+* Improved vital signs display, and death screen visuals.
+* Improved flashlight lighting and fog interaction.
+
+### Items & Interactions
+* Improved hotbar visibility and item behavior.
+* Correct calorie/water content added to all drinks.
+* Fixed cooked food ignoring ingredient calories.
+
 
 *October 28 2025*
 
