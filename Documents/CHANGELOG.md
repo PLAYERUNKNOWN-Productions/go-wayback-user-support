@@ -7,7 +7,7 @@
 * Game now saves when using alt-f4 to quit game
 * No saving upon death or escape
 * Updated game mode selection screen
-Note: we are investigating an issue with saving for the Objective: Survive game mode and hope to have a fix for this soon.
+* Note: we are investigating an issue with saving for the Objective: Survive game mode and hope to have a fix for this soon.
 
 
 *November 20 2025*
