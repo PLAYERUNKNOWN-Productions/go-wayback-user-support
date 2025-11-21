@@ -1,7 +1,18 @@
 # Changelog
+*November 21 2025*
+
+## Version: Early Access Hotfix - v0.22699
+
+* Fixed common crash after loading a saved game
+* Game now saves when using alt-f4 to quit game
+* No saving upon death or escape
+* Updated game mode selection screen
+Note: we are investigating an issue with saving for the Objective: Survive game mode and hope to have a fix for this soon.
+
+
 *November 20 2025*
 
-## Version: Early Access Launch Update - v.0.22622
+## Version: Early Access Launch Update - v0.22622
 
 ### New Features
 * Saving – You can now stop and continue your game at any time.
