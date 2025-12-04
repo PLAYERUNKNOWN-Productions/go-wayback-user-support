@@ -17,7 +17,7 @@ Your go-to space for troubleshooting and guidance during playtests of _Prologue:
 
 ### Other Resources
 - [**Prologue: Go Wayback! Privacy Notice**](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support/blob/main/Documents/PrivacyNotice.md#privacy-notice): Information on Go Wayback related data collection and other related topics.
-- [**Prologue: Go Wayback! A Guide to DeepLinks**](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support/wiki/A-Guide-to-DeepLinks)
+- [**Prologue: Go Wayback! A Guide to DeepLinks**](https://github.com/PLAYERUNKNOWN-Productions/go-wayback-user-support/wiki/A-Guide-to-DeepLinks): Information on how to share maps in Go Wayback!
 
 Thank you for supporting _Go Wayback!_
 
