@@ -1,7 +1,185 @@
 # Changelog
-*November 21 2025*
 
-## Version: Early Access Hotfix - v0.22699
+# Early Access Hotfix #5 - v0.24638
+*February 13 2026*
+
+Fixed a bug with the stamina system where after 30 minutes of playtime, players could get into a slowed down state that made running hard/impossible.
+
+
+
+# Early Access Hotfix #4 - v0.24486
+*February 4 2026*
+
+* Soaked burnable items now don’t cause FPS drops after being placed on heat source and picked up
+* Sleep key is updated on the help screen
+* Fixed a crash when dying after falling from the Glider
+* Items in inventory can now be rotated by the key “R”
+* Sliders in the weather section now apply when using the “Apply Mode Settings” button
+
+
+
+# Early Access Update - v0.24443
+*February 3 2026*
+
+### New Features
+* Mud can now freeze and has different states in-between, affecting traversal and movement
+* Added first implementation of Sleep system (hold Z key to start sleeping while not at risk of death)
+* Clocks can now be found in the world to track time
+* Glider added to Free Roam mode
+  
+### Upgrades & Improvements
+* Weather visuals upgraded with improved atmosphere, clouds, fog, and lighting balance
+* Improved cabin looting logic, making item placement feel more natural and consistent
+* Forest traversal improvements:
+  * Smoother stepping over small obstacles
+  * Improved mantling and vaulting
+* Reduced blocking on rocks, branches, and uneven terrain
+
+### New languages:
+* Korean, Russian, and Traditional Chinese
+
+### Fixes & Quality of Life
+
+Traversal & Movement
+* Fixed cases where vaulting over logs or obstacles could fail
+* Improved mantling animations and camera transitions to reduce snapping
+* Added missing height checks for vaulting and ladders
+* Removed forced get-up animation after sliding
+* Improved dangerous traversal feedback with FOV bloom and vignette effects
+
+Items, Inventory & Interaction
+* Fixed items ignoring gravity when dropped (map, clocks, etc.)
+* Fixed step counter counting steps while standing still or not registering correctly
+* Fixed thermometer and pedometer display issues
+* All dropped clothing items are now burnable
+* Improved battery usage consistency for flashlights, radio, and cassette player
+
+UI & Menus
+* General UI visual pass and alignment fixes
+* Fixed stretched images and misaligned text in menus
+* Improved sliders for more precise control
+* Fixed incorrect or missing key prompts in inventory and help screens
+* Added confirmation popups when overwriting save files
+* Pause menu navigation and layout improvements
+* Added increase / decrease indicators on vitals
+* Custom Settings page now merges Custom Settings, Seed and Edit Map
+* The Display Prompt UI is now located in Settings
+
+World, Environment & Visuals
+* Improved tree, foliage, and rock collisions to prevent snagging or clipping
+* Fixed snow, wetness, and overcast lighting inconsistencies
+* Improved river depth handling to prevent unintended soaking
+* Rocks and buildings now cover the ground from snow and rain building up
+
+Audio
+* Fixed crashes and inconsistencies related to audio shutdown
+* Resolved issues with custom audio settings reverting on launch
+* Fixed a bug where it sometimes sounded like the player was outside when they were inside
+
+Game Logic & Progression
+* Fixed achievements unlocking incorrectly or not tracking properly
+* Fixed poison, wetness, temperature, stamina, and hunger edge cases
+* Fixed scenarios and custom games incorrectly disabling achievements
+* Fixed save/load issues affecting shelters, poison state, and player stats
+
+Custom Games & Settings
+* Fixed custom maps and seeds not loading correctly
+* Added missing custom game settings (day duration, weather change speed)
+* Prevented incompatible settings from being selected simultaneously
+* Improved custom seed input validation and UI behavior
+
+Stability & Performance
+* Fixed multiple crashes related to traversal, audio, UI, and world loading
+* Improved memory cleanup and asset handling
+* General stability improvements across gameplay and menus
+
+## Currently in Development
+* Liquids & Fuel system
+* Improved foraging and cooking
+* Additional updates to landscape surfaces
+* Previously played Seeds history
+* Improved sharing options for Custom Settings, Maps, and Game Modes
+
+
+# Early Access Hotfix #3 - v0.23481
+*December 10 2025*
+
+* Fixed an issue where custom audio settings reverted to default on launch until the Settings menu was opened.
+* Fixed a bug where custom maps reset to a regular map after loading a saved game.
+* Resolved an issue preventing achievements from being unlocked in Objective: Survive and Free Roam modes.
+* Improved rolling weather transitions. You can now see weather changes approaching on the horizon over time.
+
+
+# Early Access Update - v0.23409
+*December 9 2025*
+ 
+## New Features
+Rolling Weather:
+* A new dynamic weather front system adds moving cloud walls and shifting atmospheric effects, letting you see storms coming before they arrive.
+
+New Items: Pedometer & Thermometer
+* Track your steps and monitor the external temperature with two new survival tools.
+
+Battery System Expansion
+* Flashlights, the radio, and the music player now run on batteries (small/medium/large). Items spawn with swappable batteries by default.
+
+Share Seed / Custom Map Deep Link
+* You can now share your world seed and/or custom map directly through DeepLinks.
+
+## Improvements
+Forest Traversal Overhaul
+* Walking over rocks in spruce and beech forests is now much smoother.
+* Reduced cases of getting stuck or snagged on uneven terrain.
+
+Audio & Atmosphere
+* River audio now varies depending on river width.
+* Improved cloud, light, and atmosphere effects across multiple weather types (Thunderstorm, Overcast, Clear Sky, Wet Haze).
+
+World & Environment
+* Updated tree canopies, forest tiles, and ground materials.
+* Improved moss, foliage collision, and rock sinking to prevent getting caught on surfaces.
+* Weather randomization is now based on seed and similar for all playing that map.
+
+Localization
+* Added **Ukrainian, Spanish (Latin American),** and updates to several other languages.
+* General localization pass and updated credits.
+
+## Fixes & Quality of Life
+* Better feedback when generating custom maps or river schematics.
+* Fixed calories, water, and temperature values not saving/loading correctly.
+* Fixed cooked food ignoring ingredient calories.
+* Fixed several inventory and UI issues. 
+* Updated first-person mesh shadows and item handling. 
+* Fixed several shelter-related item spawn issues.
+* Improved vaulting logic for smoother traversal. 
+* Fixed various visual glitches on snow, billboards, doors, shutters, and furniture.
+* Added feature to switch to Fahrenheit instead of Celsius for temperature in settings.
+* Fixed a bug that caused the character to collide with hanging lights.
+* Fixed teddy bear and other items not spawning correctly in starter cabin.
+* Fixed a bug where custom settings could be lost when loading the game.
+* Added crash location data and stability fixes throughout.
+* New audio settings volume sliders for:
+  * Environment
+  * Character's movement
+  * Character's Voice (for misophonia)
+  * SFX
+  * UI
+
+
+
+## Early Access Hotfix #2 - v0.22778
+*November 24 2025*
+
+* Fixed saves not working as intended in some Game Modes
+* Added more debug information to crashes to help with investigation
+* Fixed an issue that caused fuses and other electrical components to stop working after loading
+* Fixed an issue with Teddy Bear not spawning as cuddly or visible as intended. Teddy Bear now appears in the starter cabin
+* Cabins no longer spawn empty in some instances
+* Updated the credits
+
+
+## Early Access Hotfix #1 - v0.22699
+*November 21 2025*
 
 * Fixed common crash after loading a saved game
 * Game now saves when using alt-f4 to quit game
@@ -10,9 +188,8 @@
 * Note: we are investigating an issue with saving for the Objective: Survive game mode and hope to have a fix for this soon.
 
 
+## Early Access Launch Update - v0.22622
 *November 20 2025*
-
-## Version: Early Access Launch Update - v0.22622
 
 ### New Features
 * Saving – You can now stop and continue your game at any time.
@@ -54,9 +231,8 @@
 * Fixed cooked food ignoring ingredient calories.
 
 
+## Open Beta Build Update - v0.21492
 *October 28 2025*
-
-## Version: Open Beta Build Update - v0.21492
 
 ### Gameplay & Systems
 * New Game Modes menu added with two new Game Modes
@@ -85,9 +261,8 @@
 * Adjusted ladder and shelter collisions to prevent blocking and clipping
 
 
+## Open Beta Build Update - v.0.20224
 *September 23 2025*
-
-## Version: Open Beta Build Update - v.0.20224
 
 ### Audio & Atmosphere
 - Restored foliage-rustle and rain/hail roof impacts
@@ -123,18 +298,16 @@
 - Removed floating lamp in cabin; added shelf collisions to jetty & shack
 
 
-*September 4 2025*
-
 ## Version: Open Beta Build Hotfix - v.0.19783
+*September 4 2025*
 
 - Fixed collision issues on the oil lamp and lighter.
 - Resolved flashlight coloring issue.
 - Fixed a crash and a softlock.
 
 
+## Open Beta Build Update - v.0.19627
 *September 2 2025*
-
-## Version: Open Beta Build Update - v.0.19627
 
 ### Gameplay & Survival
 - Hunger and thirst no longer cause instant death
@@ -155,9 +328,8 @@
 - More randomness in item spawns, cabin durability, and cabin quality outside exploration zones
 
 
+## Open Beta Build Update - v.0.19205
 *August 18 2025*
-
-## Version: Open Beta Build Update - v.0.19205
 
 ### World & Environment
 - Improved world generation to reduce players getting stuck in rocks and cliffs
@@ -171,9 +343,8 @@ Added a 1L bottle to the starter cabin
 Updated balancing for more variety in gameplay
 
 
+## Open Beta Build - v0.19031
 *August 12 2025*
-
-## Version: Open Beta Build - v0.19031
 
 ### Interactions & Gameplay
 - Drink from rivers without stepping in
@@ -214,9 +385,8 @@ Updated balancing for more variety in gameplay
 - General UI text improvements
 
 
+## Demo Update 2
 *July 21 2025*
-
-## Version: Demo Update 2
 
 ### FOV Slider
 - A Field-of-View slider has been added to the game settings.
