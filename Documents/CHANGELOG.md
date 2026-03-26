@@ -1,5 +1,58 @@
 # Changelog
 
+# Early Access - March Update - v0.25832
+*March 26 2026*
+
+### Highlights
+* Cooking system improvements with better ingredient handling and cooking process feedback 
+* New liquid system: liquids now behave more consistently across items and inventories 
+* New forageables and food types added  
+* History page added to the menu (first iteration) 
+* Freezing mud changes that affect traversal and movement 
+
+### Gameplay & Systems 
+* Cooking reworked: better calorie calculations, ingredient handling, and cooking visualisation
+* Foraging expanded with four plants (wild parsnip, cattail, burdock root, reed shoots) and updated spawn rates
+* Pasta and rice added as cabin food items, make sure to add water!
+* Potatoes and onions added to cabin food types 
+* Liquids now exist inside container inventories and interact better with cooking and items
+* Cooking pots can refill in rain and liquids can evaporate when cooking
+* Improved sliding and traversal on surfaces like mud, ice, and slopes
+* Updated stamina behaviour
+* Added new alarm clock item to customise sleep duration 
+
+### UI & Controls 
+* Added History page in the main menu; view your last-played runs to replay or share 
+* Added save slots to better manage separate runs 
+* Sliders now work with keyboard and gamepad 
+* New status bar icons and debuff notifications 
+* Improved input rebinding and control settings 
+* Cassette player fast-forward key changed to Middle Mouse Button (now user-mappable)
+* Various UI fixes and text corrections
+
+### World & Content 
+* New tutorial option in main menu 
+* In-game map updates including biomes and legend improvements 
+* Lighting and visual consistency improved across quality settings 
+* Updated weather values and improved visuals for all extreme weather
+* Birds added, indicating weather changes
+
+### Balance Tweaks 
+* Adjusted food calories and cooking values 
+* Tweaked flashlight brightness and oil lamp duration 
+* Adjusted spawn rates for forageables near shelters
+* Updated weather values for hail, snow, and fog
+
+### Bug Fixes & Improvements 
+* Fixed multiple issues with liquids, cooking, and inventory interactions 
+* Fixed items falling through the ground after loading 
+* Fixed several animation issues (soda cans, bottles, drinking, etc.) 
+* Fixed problems with wetness, windchill, and temperature icons 
+* Numerous localisation fixes  
+* Various stability fixes, crash fixes, and performance improvements
+
+
+
 # Early Access Hotfix #5 - v0.24638
 *February 13 2026*
 
