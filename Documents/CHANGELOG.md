@@ -1,5 +1,26 @@
 # Changelog
 
+# Early Access Hotfix #7 - v0.26010
+*April 16 2026*
+
+* Renamed Tetris Master Achievement to Puzzle Master and fixed the unlock criteria.
+* Fixed storms that occur during sleep not counting toward Thor Hates Me Achievement completion.
+* Fixed cases where the northeast corner of the map was counted incorrectly for the Long Way Round Achievement.
+* Removed hiking backpack from the list of allowed backpacks for The Swiss Commute Achievement.
+* Fixed the Share button not working properly in some instances.
+* Fixed two rare crashes.
+* Increased the spawn rate of kibbles and added a new type.
+
+
+# Early Access Hotfix #6 - v0.25879
+*March 27 2026*
+
+* Reduced alarm clock power consumption
+* Fixed batteries having the same capacity
+* Fixed a crash when dragging and dropping items in the inventory
+* Fixed rice and pasta losing their cooked status when added to a cooking pot
+
+
 # Early Access - March Update - v0.25832
 *March 26 2026*
 
